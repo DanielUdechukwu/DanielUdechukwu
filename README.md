@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats:
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielUdechukwu&count_private=true&show_icons=true&theme=merko&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUdechukwu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUdechukwu&layout=compact&count_private=true)
 
-[twitter]: https://twitter.com/GeorgieNwankwo
+[twitter]: https://twitter.com/ChumaUdechukwu
