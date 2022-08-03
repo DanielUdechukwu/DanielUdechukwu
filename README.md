@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **DanielUdechukwu/DanielUdechukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Daniel Udechukwu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">
+### Hi there, I'm Daniel Udechukwu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!--
 **BuiltbyGit/BuiltbyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 📫 How to reach me: [@ChumaUdechukwu][twitter] or say 👋 on Email at [Daniel Udechukwu](mailto:danieludechukwu117@gmail.com)
 - 🌱 I’m currently learning React.JS
+- 👯 I’m looking to collaborate on Open Source Projects based on JavaScript and React
 
 <br />
 
