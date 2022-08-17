@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **BuiltbyGit/BuiltbyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 📫 How to reach me: [@ChumaUdechukwu][twitter] or say 👋 on Email at [Daniel Udechukwu](mailto:danieludechukwu117@gmail.com)
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Open Source Projects based on JavaScript and React
 
 <br />
