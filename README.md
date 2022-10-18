@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 ### Languages and Tools:
 <!-- <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="70" height="50"/> -->
 <img align="left" alt="CSS" width="50" height="50" src="https://i.postimg.cc/g2BvhSw7/css-3.png" />
