@@ -25,13 +25,15 @@ Here are some ideas to get you started:
 
 <br />
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### Languages and Tools:
 <!-- <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="70" height="50"/> -->
 <img align="left" alt="CSS" width="50" height="50" src="https://i.postimg.cc/g2BvhSw7/css-3.png" />
 <img align="left" alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="60"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" height="50"/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 
 <br />
