@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUdechukwu&layout=compact&count_private=true)
 
 [twitter]: https://twitter.com/ChumaUdechukwu
+
+[![@danny's Holopin board](https://holopin.me/danny)](https://holopin.io/@danny)
