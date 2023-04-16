@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 <!-- <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="70" height="50"/> -->
 <img align="left" alt="CSS" width="50" height="50" src="https://i.postimg.cc/g2BvhSw7/css-3.png" />
-<img align="left" alt="TailwindCSS" width="50" height="50" src="https://i.postimg.cc/jdQ28p8y/Tailwind-CSS.png" />
+<img align="left" alt="TailwindCSS" width="50" height="50" src="https://i.postimg.cc/jdMfpd2r/Tailwind.png" />
 <img align="left" alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="50" height="50"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="60"/>
