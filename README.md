@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/ChumaUdechukwu
 
-[![@danny's Holopin board](https://holopin.me/danny)](https://holopin.io/@danny)
+<!-- [![@danny's Holopin board](https://holopin.me/danny)](https://holopin.io/@danny) -->
