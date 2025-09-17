@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const daniel = {
@@ -28,7 +28,7 @@ const daniel = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -40,13 +40,13 @@ const daniel = {
 
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielUdechukwu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Current Goals
+## Current Goals
 
 - 🔭 **Currently working on:** Building modern web applications with React & TypeScript
 - 🌱 **Learning:** Advanced React patterns, Web3, and Cloud technologies
@@ -54,7 +54,7 @@ const daniel = {
 - 🤝 **Seeking help with:** Backend technologies and DevOps practices
 - 💡 **Ask me about:** Frontend development, React ecosystem, or anything tech!
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
