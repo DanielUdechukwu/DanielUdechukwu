@@ -1,52 +1,88 @@
-<!-- ## Hi there 👋 -->
+# Hey there! I'm Daniel Udechukwu 👋
 
-<!--
-**DanielUdechukwu/DanielUdechukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=60&lines=Frontend+Developer;React+%26+TypeScript+Enthusiast;Open+Source+Contributor;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielUdechukwu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DanielUdechukwu?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: Easily reach me by mail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 About Me
+
+```typescript
+const daniel = {
+  role: "Frontend Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  location: "Abuja, Nigeria",
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
+    tools: ["Git", "VS Code", "Figma", "Postman"],
+    architecture: ["SPA", "PWA", "Responsive Design"]
+  },
+  currentFocus: "Building scalable React applications",
+  funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Technologies
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,yarn,webpack,vite" />
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielUdechukwu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+## 🎯 Current Goals
+
+- 🔭 **Currently working on:** Building modern web applications with React & TypeScript
+- 🌱 **Learning:** Advanced React patterns, Web3, and Cloud technologies
+- 👯 **Looking to collaborate:** Open source JavaScript/React projects
+- 🤝 **Seeking help with:** Backend technologies and DevOps practices
+- 💡 **Ask me about:** Frontend development, React ecosystem, or anything tech!
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChumaUdechukwu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieludechukwu117@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udechukwudc/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](#) -->
+
+</div>
+
+<!-- ### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Thanks for visiting! ✨</h3>
+  <p>Feel free to reach out if you want to chat about tech, collaborate on projects, or just say hi! 👋</p>
+  
+  ![Snake animation](https://github.com/DanielUdechukwu/DanielUdechukwu/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
+<div align="center">
+  <i>Happy coding! 🚀</i>
+</div>
+
 -->
-### Hi there, I'm Daniel! A Front-End Developer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-
-<!--
-**BuiltbyGit/BuiltbyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 📫 How to reach me: [@ChumaUdechukwu][twitter] or say 👋 on Email at [Daniel Udechukwu](mailto:danieludechukwu117@gmail.com)
-- 💬 Ask me about anything
-- 👯 I’m looking to collaborate on Open Source Projects based on JavaScript and React
-
-<br />
-
-### Languages and Tools:
-<!-- <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="70" height="50"/> -->
-<!-- <img align="left" alt="CSS" width="50" height="50" src="https://i.postimg.cc/g2BvhSw7/css-3.png" /> -->
-<img align="left" alt="JavaScript" width="50" height="50" src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg#L1" />
-<img align="left" alt="TypeScript" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="50" height="50"/>
-<img align="left" alt="NextJS" width="50" height="50" src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nextjs/nextjs-original.svg#L1" />
-<img align="left" alt="TailwindCSS" width="50" height="50" src="https://i.postimg.cc/jdQ28p8y/Tailwind-CSS.png" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="60"/>
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" height="50"/>
-
-
-
-
-<br />
-<br />
-
-<!-- ### 📊 GitHub Stats: -->
-<!-- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielUdechukwu&count_private=true&show_icons=true&theme=merko&include_all_commits=true) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUdechukwu&layout=compact&count_private=true) -->
-
-[twitter]: https://twitter.com/ChumaUdechukwu
-
-<!-- [![@danny's Holopin board](https://holopin.me/danny)](https://holopin.io/@danny) -->
