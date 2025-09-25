@@ -36,7 +36,7 @@ const daniel = {
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,yarn,webpack,vite" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
 
 </div>
 
